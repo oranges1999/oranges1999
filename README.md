@@ -25,43 +25,43 @@
     <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
   </span> 
   <span>
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
-  </span> 
-  <span>
-    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/>
-  </span> 
-  <span>
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
   </span> 
   <span>
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </span> 
+  <span>
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
+  </span> 
+  <span>
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/>
+  </span> 
 </p>
 <h4 align="left">Frontend development:</h4>
 <p align="left">
   <span>
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-  </span> 
-  <span>
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  </span> 
-  <span>
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  </span> 
-  <span>
     <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/>
   </span> 
   <span>
-    <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
+  </span> 
+  <span>
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   </span> 
   <span>
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   </span> 
   <span>
-    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
-  </span>
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  </span> 
   <span>
-    <img src="1_wGdP-ym3kqQopOA9us8nXg.jpg" alt="vuejs" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  </span> 
+  <span>
+    <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
+  </span> 
+  <span>
+    <img src="1_wGdP-ym3kqQopOA9us8nXg.jpg" alt="gsap" width="40" height="40"/>
   </span> 
 </p>
 <h4 align="left">Others:</h4>
