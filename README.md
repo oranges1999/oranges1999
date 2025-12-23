@@ -23,7 +23,9 @@
   </h3>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+
+<h3 align="left">Languages and Tools</h3>
 <h4 align="left">Programming languages:</h4>
 <p align="left">
   <span>
