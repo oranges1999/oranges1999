@@ -1,10 +1,17 @@
 # Hi 👋, I'm Nhu Huy
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oranges1999.oranges1999"/> </br>
+
 - 🔭 I'm currently working on **an animation-rich landing page**
 
 - 📫 How to reach me **nhuhuy1999@gmail.com**
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oranges1999.oranges1999"/> </br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/oranges1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oranges1999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuhuhndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuhuhndev" height="30" width="40" /></a>
+<a href="https://codepen.io/Nh-Huy-Nguyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Nh-Huy-Nguyn" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming languages:</h4>
