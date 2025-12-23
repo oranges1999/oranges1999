@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **nhuhuy1999@gmail.com**
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oranges1999.oranges1999"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oranges1999.oranges1999"/> </br>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming languages:</h4>
