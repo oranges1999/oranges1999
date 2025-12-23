@@ -10,10 +10,10 @@
 <h4 align="left">Programming languages:</h4>
 <p align="left">
   <span>
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
   </span> 
   <span>
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   </span> 
   <span>
     <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
