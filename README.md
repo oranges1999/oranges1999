@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nhu Huy
 
-- 🔭 I'm currently working on **a landing page with lots of animation**
+- 🔭 I'm currently working on **an animation-rich landing page**
 
 - 📫 How to reach me **nhuhuy1999@gmail.com**
 
@@ -17,6 +17,24 @@
   </span> 
   <span>
     <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+  </span> 
+</p>
+<h4 align="left">Backend development:</h4>
+<p align="left">
+  <span>
+    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
+  </span> 
+  <span>
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
+  </span> 
+  <span>
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/>
+  </span> 
+  <span>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  </span> 
+  <span>
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </span> 
 </p>
 <h4 align="left">Frontend development:</h4>
@@ -41,24 +59,9 @@
   </span> 
   <span>
     <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
-  </span> 
-</p>
-<h4 align="left">Backend development:</h4>
-<p align="left">
+  </span>
   <span>
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-  </span> 
-  <span>
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
-  </span> 
-  <span>
-    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/>
-  </span> 
-  <span>
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  </span> 
-  <span>
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+    <img src="1_wGdP-ym3kqQopOA9us8nXg.jpg" alt="vuejs" width="40" height="40"/>
   </span> 
 </p>
 <h4 align="left">Others:</h4>
