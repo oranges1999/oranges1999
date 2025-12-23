@@ -7,10 +7,6 @@
 - 📫 How to reach me **nhuhuy1999@gmail.com**
 
 <div style="display:flex; gap:8px;">
-  <span>Item 1</span>
-  <span>Item 2</span>
-</div>
-<div style="display: flex;">
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://github.com/oranges1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oranges1999" height="30" width="40" /></a>
