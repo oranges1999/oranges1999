@@ -7,15 +7,20 @@
 - 📫 How to reach me **nhuhuy1999@gmail.com**
 
 <div style="display:flex; gap:8px;">
-  <h3 align="left">Connect with me:</h3>
-  <a href="https://github.com/oranges1999" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oranges1999" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/yuhuhndev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuhuhndev" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/Nh-Huy-Nguyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Nh-Huy-Nguyn" height="30" width="40" />
-  </a>
+  <h3 align="left">
+    Connect with me:
+    <span>
+      <a href="https://github.com/oranges1999" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oranges1999" height="30" width="40" />
+      </a>
+      <a href="https://linkedin.com/in/yuhuhndev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuhuhndev" height="30" width="40" />
+      </a>
+      <a href="https://codepen.io/Nh-Huy-Nguyn" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Nh-Huy-Nguyn" height="30" width="40" />
+      </a>
+    </span>
+  </h3>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
