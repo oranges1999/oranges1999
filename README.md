@@ -6,6 +6,10 @@
 
 - 📫 How to reach me **nhuhuy1999@gmail.com**
 
+<div style="display:flex; gap:8px;">
+  <span>Item 1</span>
+  <span>Item 2</span>
+</div>
 <div style="display: flex;">
   <h3 align="left">Connect with me:</h3>
   <p align="left">
